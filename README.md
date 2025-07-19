@@ -15,10 +15,6 @@ CUDA 11.0+ (GPU加速，可选)
 
 步骤
 
-克隆仓库
-
-bashbash复制复制git clone https://github.com/yourusername/oracle-char-recognition.git
-cd oracle-char-recognition
 
 创建虚拟环境并激活
 
