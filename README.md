@@ -37,8 +37,8 @@ cd oracle-bone-recognition
 # 2. 安装依赖
 pip install -r requirements.txt
 
-# 3. 下载预训练模型 (约150MB)
-wget https://example.com/models/oracle_yolov8.pt -P models/
+# 3. 下载预训练模型
+wget https://example.com/models/oracle_yolo11n.pt -P models/
 
 # 4. 启动应用
 python app.py
