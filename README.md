@@ -7,7 +7,7 @@
 
 **核心功能亮点**:
 - 🖼️ 图像上传与处理系统
-- 🧠 YOLOv8 甲骨文字符识别
+- 🧠 YOLOv11 甲骨文字符识别
 - 🔍 检测结果可视化展示
 - 📱 响应式Web界面设计
 - ⚡ Flask高效后端服务
@@ -19,7 +19,7 @@
 
 | 组件 | 技术 |
 |------|------|
-| 核心算法 | **YOLOv8** (Ultralytics) |
+| 核心算法 | **YOLOv11** (Ultralytics) |
 | Web框架 | **Flask** (Python) |
 | 图像处理 | **OpenCV**, **PIL** |
 | 前端界面 | **HTML5**, **CSS3**, **JavaScript** |
@@ -138,11 +138,6 @@ model.export(format='onnx')  # 导出为ONNX格式
 
 本项目采用 [MIT License](LICENSE)
 
-## 技术交流
-
-如有任何技术问题，欢迎：
-- 在GitHub Issues区提问
-- 发送邮件至：oracletech@example.com
 
 ---
 
